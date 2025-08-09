@@ -1,15 +1,11 @@
-{
-  "cff-version": "1.2.0",
-  "title": "Multidimensional Wave Structure \u2014 Code and Data",
-  "message": "If you use this repository, please cite it as below.",
-  "type": "software",
-  "authors": [
-    {
-      "family-names": "Nachev",
-      "given-names": "Kaloyan"
-    }
-  ],
-  "version": "1.0.0",
-  "date-released": "2025-08-09",
-  "repository-code": "https://github.com/<user>/multidimensional-wave-structure"
-}
+cff-version: 1.2.0
+title: "Multidimensional Wave Structure \u2014 Code and Data"
+message: If you use this repository, please cite it as below.
+type: software
+authors:
+- family-names: Nachev
+  given-names: Kaloyan
+version: 1.0.0
+date-released: '2025-08-09'
+doi: 10.5281/zenodo.16785841
+repository-code: https://github.com/<your-username>/multidimensional-wave-structure
